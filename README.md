@@ -1,5 +1,8 @@
 # HR Analytics - Atlas Labs
 
+## 🔗 Dashboard Link
+[Link to Dashboard](https://lnkd.in/gw7XuFW9)
+
 ## Case Study Goals
 ### Primary Goal:
 - Monitor key HR metrics on employees.
